@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @X-SS7
 - 👀 I’m interested in JS, Python, and Engineering.
-- 🌱 I’m currently learning JS 
 - 📫 How to reach me?: Sakshyamsigdel@gmail.com
